@@ -42,3 +42,21 @@ Chapter 2 - Day 3 - Quests
   
   4. There are two types, so we need to indicate that the function includes addressess and strings.
   The first line should read: pub fun main() {Address: String} {
+  
+Chapter 3 - Day 1 - Quests
+
+  1. Resources cannot be copied, lost, or created without specific permission written in the contract. They act as highly secure structs.
+  
+  2. Creating NFT's or other objects that are to retain their properties under all circumstances EXCEPT the ones indicated specifically in the contract.
+
+  3. create
+
+  4. A resource can only be created in a contract.
+
+  5. String
+
+  6.
+    a. There needs to be an @ before the resource name
+    b. let myJacob <-
+    c. create Jacob()
+    d. return <- myJacob
