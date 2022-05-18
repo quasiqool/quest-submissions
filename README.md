@@ -60,3 +60,27 @@ Chapter 3 - Day 1 - Quests
     b. let myJacob <-
     c. create Jacob()
     d. return <- myJacob
+    
+ Chapter 3 - Day 2 - Quests
+ 
+  1. https://play.onflow.org/e0ed4d6f-88d0-4c74-bd80-a62b8e33a00e?type=account&id=21e42bfc-8c82-4da1-93bb-d351dc5aa989&storage=none
+
+ Chapter 3 - Day 3 - Quests
+ 
+  1. https://play.onflow.org/94a29cff-78eb-4a2d-b51d-6a09ab18dc24?type=account&id=294229cb-a47d-4ebd-992b-928bad828e4b&storage=none
+
+  2. https://play.onflow.org/94a29cff-78eb-4a2d-b51d-6a09ab18dc24?type=script&id=a3e25e4e-e5bc-48d8-b89c-18f1105cfb45&storage=none
+
+  3. References allow for data to be "attached" to resources without having to move them around multiple times and edit the metadata of the resource container itself. 
+
+Chapter 3 - Day 4 - Quests
+
+  1. It gives a set of requirements for a resource or struct to implement and it allows you to restirict access to data held withing the resource or struct to specific people. 
+
+  2. https://play.onflow.org/26104357-7b10-45fa-90ac-62652bfb43f0?type=account&id=9a8e2a36-0390-463e-83d7-e2f1e1e64a97&storage=none
+   
+  3. let test: Test{ITest} <- create Test()
+
+Chapter 3 - Day 5 - Quests
+
+  1. 
