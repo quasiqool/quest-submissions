@@ -83,4 +83,7 @@ Chapter 3 - Day 4 - Quests
 
 Chapter 3 - Day 5 - Quests
 
-  1. 
+  1. AREA 1 - Read: a,b,c,d Write: a,b,c,d Func: publicFunc, contractFunc, privateFunc
+     AREA 2 - Read: a,b,c   Write: a       Func: publicFunc, contractFunc
+     AREA 3 - Read: a,b,c   Write: a       Func: publicFunc, contractFunc
+     AREA 4 - Read: a,b     Write: a       Func: publicFunc  
