@@ -87,3 +87,19 @@ Chapter 3 - Day 5 - Quests
      AREA 2 - Read: a,b,c   Write: a       Func: publicFunc, contractFunc
      AREA 3 - Read: a,b,c   Write: a       Func: publicFunc, contractFunc
      AREA 4 - Read: a,b     Write: a       Func: publicFunc  
+
+Chapter 4 - Day 1 - Quests
+
+  1. contract code and storage, including public and private storage.
+
+  2. /storage/ is where resources are actually stored. /public/ looks at storage and can be accessed anywhere by anyone as long as you have the address. /private/ acts like a private API, it can still look at storage but can only be accessed the account and whoever the owner gives permissions to.
+
+  3. .save() allows you to store a resources in an account's storage. 
+     .load() takes a resource out of storage.
+     .borrow() borrows a reference to the resource. 
+
+  4. You can only save something to an account using AuthAccount which is only allowed in the prepare phase of a transcation. 
+
+  5. Only the account owner can access their storage.
+
+  6. https://play.onflow.org/a97c2af8-005f-494c-9871-0d7f5f207347?type=tx&id=644e751c-8349-4a93-b7a2-c02e1dca6860&storage=none
