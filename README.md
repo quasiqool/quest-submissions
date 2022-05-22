@@ -103,3 +103,7 @@ Chapter 4 - Day 1 - Quests
   5. Only the account owner can access their storage.
 
   6. https://play.onflow.org/a97c2af8-005f-494c-9871-0d7f5f207347?type=tx&id=644e751c-8349-4a93-b7a2-c02e1dca6860&storage=none
+
+Chapter 4 - Day 2 - Quests
+
+  
