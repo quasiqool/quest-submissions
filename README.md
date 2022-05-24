@@ -106,4 +106,22 @@ Chapter 4 - Day 1 - Quests
 
 Chapter 4 - Day 2 - Quests
 
+  1. Take resources in storage and make them publicly avaialbe.
+
+  2. If we link a resource and use an interface on top of it, we are providing the public access to view the resource, but only within the scope of the interface.
+
+  3. https://play.onflow.org/df43a6e9-20ab-4f4c-bf0d-aafb332d3f36?type=tx&id=bf0d5229-7b09-4165-b72a-9098b326973a&storage=none
+
+Chapter 4 - Day 3 - Quests
+
+  1. Allows for the storage of many NFT's in one storage space, and allows NFT's to be deoposited into it by others.
+
+  2. You must remove the resource (and specify the key) from the parent resource.
+
+  3. 
+    a. Make the contract only allow accounts with a certain number of NFT's already in them mint an NFT. Only let AuthAccount mint an NFT. 
+    b. Add a public interface that allows you to read limited information from the collection. Use borrow to get a reference to the Collection.
+    
+Chapter 4 - Day 4 - Quests
   
+  1. 
