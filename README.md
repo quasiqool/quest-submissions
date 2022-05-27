@@ -137,3 +137,12 @@ Chapter 5 - Day 1 - Quests
   4. numberOne - Yes
      numberTwo - Yes
      numberThree - Yes, 1 
+
+Chapter 5 - Day 2 - Quests
+
+  1. It's a way to verify that NFT's or other resource framwworks are adhering to an agreed upon and safe quality standard.
+
+  2. Nothing beats a good pizza, and it's almost impossible to have a bad pizza. 
+
+  3. pub contract Test: ITest
+     pub resource interface ITest.IStuff
