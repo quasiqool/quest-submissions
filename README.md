@@ -125,3 +125,15 @@ Chapter 4 - Day 3 - Quests
 Chapter 4 - Day 4 - Quests
   
   1. https://play.onflow.org/e70774b4-9e03-46fd-9499-f9ac9c80fcd4?type=account&id=921bf8dd-6d8a-4e86-a3da-6bd28cef02e6&storage=none
+
+Chapter 5 - Day 1 - Quests
+
+  1. A way for the contract to communicate to the public that something took place
+
+  2. https://play.onflow.org/a6c62947-7e8b-4c63-9128-f49f46bd6142?type=account&id=2c3b3a6c-2a24-4bd4-8ade-355c7f762041&storage=none
+
+  3. Link above
+
+  4. numberOne - Yes
+     numberTwo - Yes
+     numberThree - Yes, 1 
