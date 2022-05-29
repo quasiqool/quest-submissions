@@ -146,3 +146,11 @@ Chapter 5 - Day 2 - Quests
 
   3. pub contract Test: ITest
      pub resource interface ITest.IStuff
+     
+Chapter 5 - Day 3 - Quests
+
+  1. Says that if what comes prior is of the same type as what follows, then move it as indicated. If not, abort the function.
+
+  2. Gives an authorized reference ,its used similarly to as! but instead of downcasting types it is downcasting references.
+
+  3. https://play.onflow.org/b239c6a4-68b1-4ccc-8822-f7b776323c91?type=account&id=872b9ba7-5482-4346-b424-afa2418779ee&storage=none
